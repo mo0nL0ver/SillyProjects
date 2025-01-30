@@ -1,5 +1,5 @@
 # How many booms do you want?
-from bdb import Breakpoint
+
 answer = input("Is there anything surprising happening in your life (yes or no) ? ")
 
 if answer == "yes":
